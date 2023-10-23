@@ -1,0 +1,2 @@
+export const ECOMMERCE_TOKEN = "ECOMMERCE_TOKEN";
+export const ECOMMERCE_ROLE = "ECOMMERCE_ROLE";
